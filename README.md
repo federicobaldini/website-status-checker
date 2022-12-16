@@ -1,4 +1,4 @@
-# website-status-checker+
+# website-status-checker
 
 A simple command-line application to check the given website (by url) status, using Go.
 
