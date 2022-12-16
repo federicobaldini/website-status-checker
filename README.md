@@ -15,7 +15,7 @@ For the instalation guide [click here](https://go.dev/doc/tutorial/getting-start
 Just clone the repo and use Go to run the code as shown below 
 
 ```bash
-$ git clone https://github.com/federicobaldini/wensite-status-checker
-$ cd wensite-status-checker
-wensite-status-checker->$ go run main.go
+$ git clone https://github.com/federicobaldini/website-status-checker
+$ cd website-status-checker
+website-status-checker->$ go run main.go
 ```
